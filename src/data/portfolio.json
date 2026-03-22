@@ -1,0 +1,112 @@
+{
+  "personal": {
+    "name": "Sachin Prasad",
+    "title": "Full-Stack Developer &  CS Student",
+    "tagline": "Building at the intersection of systems, automation, and robust backend experiences.",
+    "email": "sachin433116@gmail.com",
+    "location": "Uttar Pradesh, India",
+    "avatar": "./images/avatar.jpg"
+  },
+  "about": {
+    "description": [
+      "Hi! I am Sachin Prasad, a Computer Science student and a relentless builder who lives at the intersection of high-level application design and low-level system performance.",
+      "My toolkit ranges from crafting cross-platform mobile experiences with Flutter and Dart to designing digital logic with Verilog and experimenting with ESP32 hardware projects. Whether I'm writing Python scripts to automate my workflow or building web apps, I'm driven by the 'how it works' as much as the 'how it looks.'",
+      "When I'm not in a code editor, I’m likely rice-ing my Arch Linux (Hyprland) setup, documenting my Java and Flutter journey on GitHub, or diving into a high-stakes thriller. I believe the best digital experiences are built by those who aren't afraid to break things and rebuild them better."
+    ],
+    "stats": {
+      "yearsExperience": "3+",
+      "projectsCompleted": "5",
+      "happyClients": "0"
+    }
+  },
+  "skills": [
+    { "name": "Python", "level": 95, "category": "Backend" },
+    { "name": "Docker", "level": 92, "category": "Tools" },
+    { "name": "Linux / Bash", "level": 90, "category": "Systems" },
+    { "name": "Git / GitHub", "level": 88, "category": "Tools" },
+    { "name": "Flutter / Dart", "level": 85, "category": "Mobile" },
+    { "name": "MySQL", "level": 80, "category": "Database" },
+    { "name": "Java", "level": 75, "category": "Languages" },
+    { "name": "Django", "level": 70, "category": "Backend" },
+    { "name": "ESP32 / IoT", "level": 65, "category": "Hardware" }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "VitPlus",
+      "category": "Windows App / Open Source",
+      "description": "A Windows application built for VIT University students to access their academic information, including attendance, grades, and schedules, in a user-friendly interface.",
+      "image": "./images/projects/vitplus.png",
+      "tech": ["Dart", "Flutter", "Git"],
+      "link": "https://github.com/notsachin07/VitPlus"
+    },
+    {
+      "id": 2,
+      "title": "learnJavaWithMe",
+      "category": "Education / Open Source",
+      "description": "A structured GitHub repository designed to teach Java fundamentals through hands-on lessons and exercises.",
+      "image": "./images/projects/learnJavaWithMe.png",
+      "tech": ["Java", "Markdown", "Git"],
+      "link": "https://github.com/notsachin07/learnJavaWithMe"
+    },
+    {
+      "id": 3,
+      "title": "learnFlutterWithme",
+      "category": "Education / Mobile",
+      "description": "Comprehensive guide for mastering Dart and Flutter, moving from basic widgets to advanced state management.",
+      "image": "./images/projects/learnFlutterWithMe.png",
+      "tech": ["Dart", "Flutter", "GitHub"],
+      "link": "https://github.com/notsachin07/learnFlutterWithme"
+    },
+    {
+      "id": 4,
+      "title": "Internet",
+      "category": "Education",
+      "description": "A comprehensive guide to understanding the internet, covering everything from basic concepts to advanced networking protocols.",
+      "image": "./images/projects/internet.png",
+      "tech": ["Dart", "Flutter", "GitHub"],
+      "link": "https://github.com/notsachin07/elite-ball-knowledge/tree/main/Internet"
+    },
+    {
+      "id": 5,
+      "title": "Arduino Projects",
+      "category": "Education",
+      "description": "Guide to building various projects using Arduino, covering basics to advanced applications in IoT and automation.",
+      "image": "./images/projects/arduino.png",
+      "tech": ["Arduino", "IoT", "C++"],
+      "link": "https://github.com/notsachin07/Arduino-LED-Blink"
+    }
+
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "year": "2025 - Present",
+      "title": "Computer Science Student",
+      "company": "VIT-AP University",
+      "description": "Focusing on core CS fundamentals, data structures, and expanding full-stack development skills.",
+      "highlights": ["Maintaining 'learnWithMe' series", "Exploring Big Scale Deployment", "Active in technical clubs"]
+    },
+    {
+      "id": 2,
+      "year": "2025",
+      "title": "Open Source Contributor",
+      "company": "GitHub",
+      "description": "Creating educational resources and automating personal workflows through Python and Bash.",
+      "highlights": ["Built Python-based automation tools", "Documented RDBMS/MySQL workflows"]
+    },
+    {
+      "id": 3,
+      "year": "2026 - Present",
+      "title": "Backend Developer",
+      "company": "Self-Taught",
+      "description": "Started learning modern web technologies in a fast-paced startup environment.",
+      "highlights": ["Learned Django", "Contributed to open source", "Trying production deployments"]
+    }
+  ],
+  "social": {
+    "github": "https://github.com/notsachin07",
+    "instagram": "https://instagram.com/sachin.parasad.me",
+    "linkedin": "https://www.linkedin.com/in/sachin25bce7887"
+  }
+}
